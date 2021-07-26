@@ -1,3 +1,3 @@
 # CustomCountDownTimer
 
-![](record.gif)
+![](media/record.gif)
